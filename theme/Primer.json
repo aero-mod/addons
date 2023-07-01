@@ -1,0 +1,10 @@
+{
+    "$schema": "../$$schema.json",
+    "id": "primer",
+    "title": "Primer",
+    "description": "A theme that makes Discord look like GitHub's Primer design system.",
+    "author": "TheCommieAxolotl",
+    "repository": "TheCommieAxolotl/aero-addons",
+    "sha256": "acb36733e2605812128400984fa0d14bcbc119f0",
+    "path": "themes/Primer"
+}

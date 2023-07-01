@@ -1,0 +1,38 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "aero-addon",
+    "title": "Addon Listing",
+    "description": "A listing for an aero addon",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "The unique identifier for the addon.",
+            "type": "string"
+        },
+        "title": {
+            "description": "The title of the addon.",
+            "type": "string"
+        },
+        "description": {
+            "description": "The description of the addon.",
+            "type": "string"
+        },
+        "author": {
+            "description": "The author of the addon.",
+            "type": "string"
+        },
+        "repository": {
+            "description": "The GitHub repository path. (e.g. TheCommieAxolotl/aero-addons)",
+            "type": "string"
+        },
+        "path": {
+            "description": "The path to the addon inside the GitHub repository. (e.g. plugins/ExampleAddon.ts or themes/ExampleTheme/)",
+            "type": "string"
+        },
+        "sha256": {
+            "description": "The commit hash of the verified version of the addon.",
+            "type": "string"
+        }
+    },
+    "required": ["id", "title", "description", "repository", "path", "sha256"]
+}
