@@ -1,0 +1,10 @@
+{
+    "$schema": "../$$schema.json",
+    "id": "previewMessage",
+    "title": "Preview Message",
+    "description": "Allows you to preview a message before you send it.",
+    "author": "TheCommieAxolotl",
+    "repository": "TheCommieAxolotl/aero-addons",
+    "sha256": "170d535d0253dbc1c6b8434e3bbd36b8431b2f67",
+    "path": "plugins/PreviewMessage.tsx"
+}
