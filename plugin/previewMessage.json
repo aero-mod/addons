@@ -1,5 +1,6 @@
 {
     "$schema": "../$$schema.json",
+    "added": "2023-7-1:07:49:00",
     "id": "previewMessage",
     "title": "Preview Message",
     "description": "Allows you to preview a message before you send it.",

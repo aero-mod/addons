@@ -5,6 +5,10 @@
     "description": "A listing for an aero addon",
     "type": "object",
     "properties": {
+        "added": {
+            "description": "serialised Date",
+            "type": "string"
+        },
         "id": {
             "description": "The unique identifier for the addon.",
             "type": "string"
@@ -34,5 +38,5 @@
             "type": "string"
         }
     },
-    "required": ["id", "title", "description", "repository", "path", "sha256"]
+    "required": ["id", "added", "title", "description", "repository", "path", "sha256"]
 }

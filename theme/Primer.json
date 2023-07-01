@@ -1,5 +1,6 @@
 {
     "$schema": "../$$schema.json",
+    "added": "2023-7-1:05:12:00",
     "id": "primer",
     "title": "Primer",
     "description": "A theme that makes Discord look like GitHub's Primer design system.",
