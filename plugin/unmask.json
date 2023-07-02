@@ -1,0 +1,11 @@
+{
+    "$schema": "../$$schema.json",
+    "added": "2023-7-2:03:01:00",
+    "id": "unmask",
+    "title": "Unmask",
+    "description": "Shows users with nicknames' usernames in chat.",
+    "author": "TheCommieAxolotl",
+    "repository": "TheCommieAxolotl/aero-addons",
+    "sha256": "37d565c5ae7b879399f025a626749cd54fd420bb",
+    "path": "plugins/unmask.tsx"
+}
