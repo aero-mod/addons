@@ -6,6 +6,6 @@
     "description": "Shows users with nicknames' usernames in chat.",
     "author": "TheCommieAxolotl",
     "repository": "TheCommieAxolotl/aero-addons",
-    "sha256": "37d565c5ae7b879399f025a626749cd54fd420bb",
+    "sha256": "325b960e7b9219a7c0924c251bfe54988c42f4e2",
     "path": "plugins/unmask.tsx"
 }
