@@ -1,6 +1,6 @@
 {
     "$schema": "../$$schema.json",
-    "added": "2023-7-2:03:01:00",
+    "added": "2023-7-2",
     "id": "unmask",
     "title": "Unmask",
     "description": "Shows users with nicknames' usernames in chat.",

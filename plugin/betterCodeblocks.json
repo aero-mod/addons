@@ -1,6 +1,6 @@
 {
     "$schema": "../$$schema.json",
-    "added": "2023-7-16:03:59:00",
+    "added": "2023-7-16",
     "id": "betterCodeblocks",
     "title": "Better Codeblocks",
     "description": "Enhances Discord's codeblocks with language indicators, copy buttons, and more.",

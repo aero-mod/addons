@@ -1,6 +1,6 @@
 {
     "$schema": "../$$schema.json",
-    "added": "2023-7-16:03:59:00",
+    "added": "2023-7-16",
     "id": "betterTyping",
     "title": "Better Typing",
     "description": "Enhance the typing indicator to be more useful. (Show Role Colors, Clickable Usernames)",
