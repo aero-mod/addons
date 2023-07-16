@@ -1,0 +1,11 @@
+{
+    "$schema": "../$$schema.json",
+    "added": "2023-7-16:03:59:00",
+    "id": "betterCodeblocks",
+    "title": "Better Codeblocks",
+    "description": "Enhances Discord's codeblocks with language indicators, copy buttons, and more.",
+    "author": "TheCommieAxolotl",
+    "repository": "TheCommieAxolotl/aero-addons",
+    "sha256": "faf79449fe7de89fe5bd748464a790b5deb48dd4",
+    "path": "plugins/betterCodeblocks.tsx"
+}
