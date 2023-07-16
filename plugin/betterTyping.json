@@ -1,0 +1,11 @@
+{
+    "$schema": "../$$schema.json",
+    "added": "2023-7-16:03:59:00",
+    "id": "betterTyping",
+    "title": "Better Typing",
+    "description": "Enhance the typing indicator to be more useful. (Show Role Colors, Clickable Usernames)",
+    "author": "TheCommieAxolotl",
+    "repository": "TheCommieAxolotl/aero-addons",
+    "sha256": "8dff34a246b3fd9850f4dd1e83f1101a91527318",
+    "path": "plugins/betterTyping.tsx"
+}
