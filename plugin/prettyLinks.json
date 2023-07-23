@@ -6,6 +6,6 @@
     "description": "Remove release channel information from message links.",
     "author": "TheCommieAxolotl",
     "repository": "TheCommieAxolotl/aero-addons",
-    "sha256": "170d535d0253dbc1c6b8434e3bbd36b8431b2f67",
+    "sha256": "d651ab5ac412d6727dcf24cfa0bb1fa646490e13",
     "path": "plugins/prettylinks.ts"
 }
